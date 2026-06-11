@@ -61,7 +61,7 @@ export default function WebsiteOperasional() {
     },
     {
       name: "Logistik",
-      href: "/logistik",
+      href: "https://logistik-app-theta.vercel.app/",
       iconColor: "text-orange-500",
       bgColor: "bg-orange-50",
       icon: (
