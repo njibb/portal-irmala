@@ -39,7 +39,7 @@ export default function WebsiteOperasional() {
     },
     {
       name: "Marketing Com",
-      href: "/https://marketing-communication-irmala.vercel.app/",
+      href: "https://marketing-communication-irmala.vercel.app/",
       iconColor: "text-blue-500",
       bgColor: "bg-blue-50",
       icon: (
