@@ -50,7 +50,7 @@ export default function WebsiteOperasional() {
     },
     {
       name: "Keislaman",
-      href: "/keislaman",
+      href: "https://keislaman-blog.vercel.app/",
       iconColor: "text-indigo-500",
       bgColor: "bg-indigo-50",
       icon: (
